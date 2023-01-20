@@ -1,6 +1,8 @@
 ## 👋 Hi there. I' am Faisal. 
 
-#### My backgrounds are electrical and business. I have several experiences in supply chain then strategic planning / business strategy in  Oil & Gas industry.  
+#### 🤵🏻 My backgrounds are electrical and business. 
+#### 🏢 I have several experiences in supply chain then strategic planning / business strategy in  Oil & Gas industry.
+#### 💗 I am looking for the next step in my career through my experience in data science, business consulting, and business analyst.
 
 #### My Data Science Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -11,7 +13,7 @@
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-##### 💗 I am looking for the next step in my career through my experience in data science, business consulting, and business analyst.
+
 
 ##### 🤝 Let's connect and collaborate -  [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-adhisthana-nugraha-111503125/) - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](faisal.adhisthana@gmail.com) 
 
