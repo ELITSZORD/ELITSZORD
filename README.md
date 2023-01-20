@@ -17,7 +17,7 @@
 
 
 
-![MyStat](https://github-readme-stats.vercel.app/api?username=ELITSZORD&theme=blue-green) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELITSZORD&layout=compact)](https://github.com/ELITSZORD/github-readme-stats) 
+![MyStat](https://github-readme-stats.vercel.app/api?username=ELITSZORD&theme=blue-green)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELITSZORD&layout=compact)](https://github.com/ELITSZORD/github-readme-stats) 
 
 
 
