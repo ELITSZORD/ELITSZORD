@@ -4,6 +4,8 @@
 #### 🏢 I have several experiences in supply chain then strategic planning / business strategy in  Oil & Gas industry.
 #### 💗 I am looking for the next step in my career through my experience in data science, business consulting, and business analyst.
 
+##### 🤝 Let's connect and collaborate -  [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-adhisthana-nugraha-111503125/) - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](faisal.adhisthana@gmail.com) 
+
 #### My Data Science Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![rstudio](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -12,11 +14,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-##### 🤝 Let's connect and collaborate -  [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-adhisthana-nugraha-111503125/) - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](faisal.adhisthana@gmail.com) 
-
 
 
 ![MyStat](https://github-readme-stats.vercel.app/api?username=ELITSZORD&theme=blue-green)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELITSZORD&layout=compact)](https://github.com/ELITSZORD/github-readme-stats) 
