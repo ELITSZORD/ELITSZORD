@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👋 Hi there. I' am Faisal. My backgrounds are electrical and business, also I have several experiences in suplly chain then strategic planning / business strategy in  Oil & Gas industry.  
 
 <!--
 **ELITSZORD/ELITSZORD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
