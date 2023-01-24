@@ -4,7 +4,7 @@
 #### 🏢 I have several experiences in supply chain then strategic planning / business strategy in  Oil & Gas industry.
 #### 💗 I am looking for the next step in my career through my experience in data science, business consulting, and business analyst.
 
-##### 🤝 Let's connect and collaborate -  [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-adhisthana-nugraha-111503125/) - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](faisal.adhisthana@gmail.com) 
+##### 🤝 Let's connect and collaborate -  [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-adhisthana-nugraha-111503125/) - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] <a href="mailto:faisal.adhisthana@gmail.com">
 
 #### My Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
