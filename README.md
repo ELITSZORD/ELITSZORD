@@ -5,16 +5,7 @@
 #### 🏢 I have several experiences in supply chain then strategic planning / business strategy in  Oil & Gas industry.
 #### 💗 I am looking for the next step in my career through my experience in data science, business consulting, and business analyst.
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="www.linkedin.com/in/faisal-adhisthana-nugraha-111503125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal adhisthana nugraha" height="30" width="40" /></a>
-  
-#### [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisal.adhisthana@gmail.com)
-
-
- <a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"><img align="center" src="mailto:faisal.adhisthana@gmail.com" alt="faisal adhisthana nugraha" height="30" width="50" /></a>
-</p>
+##### 🤝 Let's connect and collaborate -  [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-adhisthana-nugraha-111503125/) - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisal.adhisthana@gmail.com)
 
 
 #### My Tech Stack
