@@ -1,4 +1,5 @@
-## 👋 Hi there. I' am Faisal. 
+<h1 align="center">Hi 👋, I'm Faisal Adhisthana Nugraha</h1>
+<h3 align="center">Connecting The Gap Between Technical & Business Domains. Expert in Data Scientist & Strategic Planning.</h3>
 
 #### 🤵🏻 My backgrounds are electrical and business. 
 #### 🏢 I have several experiences in supply chain then strategic planning / business strategy in  Oil & Gas industry.
@@ -46,8 +47,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Faisal Adhisthana Nugraha</h1>
-<h3 align="center">Connecting The Gap Between Technical & Business Domains. Expert in Data Scientist & Strategic Planning.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elitszord&label=Profile%20views&color=0e75b6&style=flat" alt="elitszord" /> </p>
 
