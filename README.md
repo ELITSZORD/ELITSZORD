@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect & Collaborate with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/faisal-adhisthana-nugraha-111503125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal adhisthana nugraha" height="30" width="40" /></a> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisal.adhisthana@gmail.com)
+<a href="www.linkedin.com/in/faisal-adhisthana-nugraha-111503125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal adhisthana nugraha" height="30" width="40" /></a> "|"
+<a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"><img align="center" src="mailto:faisal.adhisthana@gmail.com" alt="faisal adhisthana nugraha" height="30" width="40" /></a>
 </p>
 
 
