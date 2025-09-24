@@ -6,6 +6,7 @@
 #### 💗 I am looking for the next step in my career through my experience in data science, business consulting, and business analyst.
 
 <h3 align="left">Connect & Collaborate with me:</h3>
+
 #### - [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-adhisthana-nugraha-111503125/) 
 #### - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisal.adhisthana@gmail.com)
 
